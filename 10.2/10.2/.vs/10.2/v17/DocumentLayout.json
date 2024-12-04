@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\OneDrive\\\u684C\u9762\\113360210_HW6\\10.2\\10.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC55743-A5D0-478D-B5FD-EB0AC8B4FA82}|10.2\\10.2.vcxproj|C:\\Users\\kevin\\OneDrive\\\u684C\u9762\\113360210_HW6\\10.2\\source\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\\u684C\u9762\\113360210_HW6\\10.2\\source\\main.c",
+              "RelativeDocumentMoniker": "..\\source\\main.c",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\\u684C\u9762\\113360210_HW6\\10.2\\source\\main.c",
+              "RelativeToolTip": "..\\source\\main.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-01T15:08:22.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
